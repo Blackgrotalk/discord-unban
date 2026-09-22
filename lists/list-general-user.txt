@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# Blackgrotalk/discord-unban 54afd10b8bb3
